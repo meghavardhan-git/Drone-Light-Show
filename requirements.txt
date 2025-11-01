@@ -1,0 +1,15 @@
+# Core dependencies
+pybullet==3.2.5
+numpy==1.26.4
+
+# Optional visualization and debugging tools
+matplotlib==3.9.2
+
+# For 3D and animation handling (optional)
+opencv-python==4.10.0.84
+
+# For performance profiling and logging
+tqdm==4.66.4
+
+# Only if you use URDF or ROS-related utilities
+pyyaml==6.0.2
