@@ -42,8 +42,8 @@ The main focus of this project is on **formation control**, **synchronized movem
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/drone-light-show-pybullet.git
-cd drone-light-show-pybullet
+git clone https://github.com/your-username/Drone-Light-Show.git
+cd Drone-Light-Show
 ```
 
 ### 2️⃣ Install Dependencies
